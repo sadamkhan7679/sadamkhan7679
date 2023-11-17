@@ -7,7 +7,7 @@ Full Stack Developer
 
 I'm a passionate and experienced full stack developer with a strong focus on web and mobile application development. With expertise in JavaScript and TypeScript, I enjoy building robust and scalable solutions that deliver outstanding user experiences. I'm constantly exploring and adopting the latest technologies and best practices to stay up-to-date with the ever-evolving tech landscape.
 
-* 🌍  I'm based in Lahore, Pakistan
+* 🌍  I'm based in Windsor, Canada
 * ✉️  You can contact me at [sadamhussain942@gmail.com](mailto:sadamhussain942@gmail.com)
 
 ## Skills
