@@ -632,3 +632,9 @@ jobs:
 
 [//]: # ()
 [//]: # (<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />)
+
+---
+
+<!-- INSIGHTS:START -->
+<!-- This section is auto-generated daily by .github/workflows/profile-insights.yml -->
+<!-- INSIGHTS:END -->
