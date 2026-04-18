@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:6366f1&height=200&section=header&text=Sadam%20Hussain&fontSize=52&fontColor=f8fafc&fontAlignY=52&desc=Senior%20Full%20Stack%20%26%20AI%20Engineer%20%7C%20React%20%C2%B7%20Node.js%20%C2%B7%20LLM%20Orchestration&descAlignY=72&descColor=a5b4fc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:6366f1&height=180&section=header&text=Sadam%20Hussain&fontSize=52&fontColor=f8fafc&fontAlignY=60" />
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=650&lines=Senior+Full+Stack+%26+AI+Engineer;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;LLM+Orchestration+%7C+Voice+AI+%7C+RAG+Pipelines;8%2B+Years+Shipping+Production+Systems;Open+to+Senior+%26+AI+Engineering+Roles" alt="Typing SVG" />
 
 </div>
 
@@ -24,18 +30,31 @@
 
 ---
 
+<div>
+
 ```ts
-const sadam = {
+const sadam: Developer = {
+  name:        "Sadam Hussain",
   role:        "Senior Full Stack & AI Engineer",
   experience:  "8+ years in production",
-  location:    "Windsor, Ontario, Canada 🍁",
-  focus:       ["React / Next.js", "Node.js / NestJS", "AI / LLM Integration", "React Native / Expo"],
-  currently:   "Building Preplify Mobile v2 — AI voice interview prep on Expo + LiveKit + Deepgram",
+  location:    "Windsor, Ontario, Canada",
+
+  stack: {
+    frontend:  ["React", "Next.js", "TypeScript", "React Native", "Expo"],
+    backend:   ["Node.js", "NestJS", "Express.js", "GraphQL", "REST APIs"],
+    data:      ["PostgreSQL", "MongoDB", "Redis", "Prisma", "Drizzle ORM"],
+    ai:        ["OpenAI", "Gemini", "LiveKit Agents", "Deepgram", "Pinecone"],
+    devops:    ["Docker", "AWS", "GitHub Actions", "Vercel"],
+  },
+
+  currently:   "Preplify Mobile v2 — voice AI interview prep (Expo + LiveKit + Deepgram)",
   building:    "spiralsync.com — AI-powered developer career tools",
   openTo:      ["Senior Full Stack", "Senior Frontend", "AI / Automation Engineering"],
   contact:     "sadamhussain942@gmail.com",
 };
 ```
+
+</div>
 
 ---
 
@@ -410,34 +429,56 @@ jobs:
 
 </div>
 
----
+[//]: # (---)
 
-## 📌 Pinned Repositories
+[//]: # ()
+[//]: # (## 📌 Pinned Repositories)
 
-> ⚡ **To pin repos:** Go to your GitHub profile → click **"Customize your pins"** → select up to 6 repos. The cards below will auto-reflect whichever repos you have pinned.
+[//]: # ()
+[//]: # (> ⚡ **To pin repos:** Go to your GitHub profile → click **"Customize your pins"** → select up to 6 repos. The cards below will auto-reflect whichever repos you have pinned.)
 
-<div align="center">
+[//]: # ()
+[//]: # (<div align="center">)
 
-<a href="https://github.com/sadamkhan7679/preplify">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadamkhan7679&repo=preplify&title_color=6366f1&text_color=e2e8f0&icon_color=a5b4fc&bg_color=0f172a&hide_border=true" />
-</a>
-<a href="https://github.com/sadamkhan7679/class-ops">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadamkhan7679&repo=class-ops&title_color=6366f1&text_color=e2e8f0&icon_color=a5b4fc&bg_color=0f172a&hide_border=true" />
-</a>
-<a href="https://github.com/sadamkhan7679/momentum">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadamkhan7679&repo=momentum&title_color=6366f1&text_color=e2e8f0&icon_color=a5b4fc&bg_color=0f172a&hide_border=true" />
-</a>
-<a href="https://github.com/sadamkhan7679/cyber-mart">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadamkhan7679&repo=cyber-mart&title_color=6366f1&text_color=e2e8f0&icon_color=a5b4fc&bg_color=0f172a&hide_border=true" />
-</a>
-<a href="https://github.com/sadamkhan7679/audits-iq">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadamkhan7679&repo=audits-iq&title_color=6366f1&text_color=e2e8f0&icon_color=a5b4fc&bg_color=0f172a&hide_border=true" />
-</a>
-<a href="https://github.com/sadamkhan7679/service-management-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadamkhan7679&repo=service-management-platform&title_color=6366f1&text_color=e2e8f0&icon_color=a5b4fc&bg_color=0f172a&hide_border=true" />
-</a>
+[//]: # ()
+[//]: # (<a href="https://github.com/sadamkhan7679/preplify">)
 
-</div>
+[//]: # (  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadamkhan7679&repo=preplify&title_color=6366f1&text_color=e2e8f0&icon_color=a5b4fc&bg_color=0f172a&hide_border=true" />)
+
+[//]: # (</a>)
+
+[//]: # (<a href="https://github.com/sadamkhan7679/class-ops">)
+
+[//]: # (  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadamkhan7679&repo=class-ops&title_color=6366f1&text_color=e2e8f0&icon_color=a5b4fc&bg_color=0f172a&hide_border=true" />)
+
+[//]: # (</a>)
+
+[//]: # (<a href="https://github.com/sadamkhan7679/momentum">)
+
+[//]: # (  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadamkhan7679&repo=momentum&title_color=6366f1&text_color=e2e8f0&icon_color=a5b4fc&bg_color=0f172a&hide_border=true" />)
+
+[//]: # (</a>)
+
+[//]: # (<a href="https://github.com/sadamkhan7679/cyber-mart">)
+
+[//]: # (  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadamkhan7679&repo=cyber-mart&title_color=6366f1&text_color=e2e8f0&icon_color=a5b4fc&bg_color=0f172a&hide_border=true" />)
+
+[//]: # (</a>)
+
+[//]: # (<a href="https://github.com/sadamkhan7679/audits-iq">)
+
+[//]: # (  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadamkhan7679&repo=audits-iq&title_color=6366f1&text_color=e2e8f0&icon_color=a5b4fc&bg_color=0f172a&hide_border=true" />)
+
+[//]: # (</a>)
+
+[//]: # (<a href="https://github.com/sadamkhan7679/service-management-platform">)
+
+[//]: # (  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadamkhan7679&repo=service-management-platform&title_color=6366f1&text_color=e2e8f0&icon_color=a5b4fc&bg_color=0f172a&hide_border=true" />)
+
+[//]: # (</a>)
+
+[//]: # ()
+[//]: # (</div>)
 
 ---
 
@@ -469,6 +510,7 @@ jobs:
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:312e81,100:0f172a&height=100&section=footer" />
 </div>
+---
 
 
 [//]: # (Hi 👋 My name is Sadam Hussain)
