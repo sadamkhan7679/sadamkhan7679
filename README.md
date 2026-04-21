@@ -641,7 +641,7 @@ jobs:
 
 ## ⚡ GitHub Insights
 
-> Auto-refreshed daily · Last updated: 2026-04-20 UTC
+> Auto-refreshed daily · Last updated: 2026-04-21 UTC
 
 ---
 
@@ -650,10 +650,10 @@ jobs:
 | Repository | Stars | Forks | Last Push | Status |
 |:---|---:|---:|:---|:---|
 | [sadamkhan7679](https://github.com/sadamkhan7679/sadamkhan7679) | ⭐ 0 | 🍴 0 | today | 📈 Active |
-| [agent-ops](https://github.com/sadamkhan7679/agent-ops) | ⭐ 1 | 🍴 1 | 27d ago | 💤 Quiet |
-| [issuetracker-fastapi-nextjs](https://github.com/sadamkhan7679/issuetracker-fastapi-nextjs) | ⭐ 0 | 🍴 0 | 88d ago | 💤 Quiet |
-| [live-docs](https://github.com/sadamkhan7679/live-docs) | ⭐ 1 | 🍴 0 | 123d ago | 💤 Quiet |
-| [react-confirm](https://github.com/sadamkhan7679/react-confirm) | ⭐ 1 | 🍴 0 | 462d ago | 💤 Quiet |
+| [skills-marketplace](https://github.com/sadamkhan7679/skills-marketplace) | ⭐ 0 | 🍴 0 | today | 📈 Active |
+| [agent-ops](https://github.com/sadamkhan7679/agent-ops) | ⭐ 1 | 🍴 1 | 28d ago | 💤 Quiet |
+| [issuetracker-fastapi-nextjs](https://github.com/sadamkhan7679/issuetracker-fastapi-nextjs) | ⭐ 0 | 🍴 0 | 89d ago | 💤 Quiet |
+| [live-docs](https://github.com/sadamkhan7679/live-docs) | ⭐ 1 | 🍴 0 | 124d ago | 💤 Quiet |
 
 ---
 
@@ -661,8 +661,8 @@ jobs:
 
 | Window | Commits | Pull Requests | Issues Opened |
 |:---|---:|---:|---:|
-| 🗓️ Last 30 days | 14 | 0 | 0 |
-| 🗓️ Last 90 days | 14 | 0 | 0 |
+| 🗓️ Last 30 days | 15 | 0 | 0 |
+| 🗓️ Last 90 days | 15 | 0 | 0 |
 
 > _Computed from GitHub Public Events API (covers up to ~300 recent events)_
 
@@ -672,7 +672,7 @@ jobs:
 
 | Metric | Value |
 |:---|:---|
-| Public Repositories | 54 |
+| Public Repositories | 55 |
 | Total Stars | ⭐ 5 |
 | Total Forks | 🍴 1 |
 | Avg Forks per Repo | 0.02 |
@@ -684,10 +684,10 @@ jobs:
 
 | Language | Repos | Share |
 |:---|---:|---:|
-| TypeScript | 30 | 61.2% |
-| JavaScript | 14 | 28.6% |
-| Python | 3 | 6.1% |
-| C# | 2 | 4.1% |
+| TypeScript | 31 | 62.0% |
+| JavaScript | 14 | 28.0% |
+| Python | 3 | 6.0% |
+| C# | 2 | 4.0% |
 
 ---
 
