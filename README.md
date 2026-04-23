@@ -641,7 +641,7 @@ jobs:
 
 ## ⚡ GitHub Insights
 
-> Auto-refreshed daily · Last updated: 2026-04-22 UTC
+> Auto-refreshed daily · Last updated: 2026-04-23 UTC
 
 ---
 
@@ -650,10 +650,10 @@ jobs:
 | Repository | Stars | Forks | Last Push | Status |
 |:---|---:|---:|:---|:---|
 | [sadamkhan7679](https://github.com/sadamkhan7679/sadamkhan7679) | ⭐ 0 | 🍴 0 | today | 📈 Active |
-| [skills-marketplace](https://github.com/sadamkhan7679/skills-marketplace) | ⭐ 0 | 🍴 0 | 1d ago | 📈 Active |
-| [agent-ops](https://github.com/sadamkhan7679/agent-ops) | ⭐ 1 | 🍴 1 | 29d ago | 💤 Quiet |
-| [live-docs](https://github.com/sadamkhan7679/live-docs) | ⭐ 1 | 🍴 0 | 125d ago | 💤 Quiet |
-| [react-confirm](https://github.com/sadamkhan7679/react-confirm) | ⭐ 1 | 🍴 0 | 464d ago | 💤 Quiet |
+| [skills-marketplace](https://github.com/sadamkhan7679/skills-marketplace) | ⭐ 0 | 🍴 0 | 2d ago | 📈 Active |
+| [agent-ops](https://github.com/sadamkhan7679/agent-ops) | ⭐ 1 | 🍴 1 | 30d ago | 💤 Quiet |
+| [live-docs](https://github.com/sadamkhan7679/live-docs) | ⭐ 1 | 🍴 0 | 126d ago | 💤 Quiet |
+| [react-confirm](https://github.com/sadamkhan7679/react-confirm) | ⭐ 1 | 🍴 0 | 465d ago | 💤 Quiet |
 
 ---
 
@@ -661,8 +661,8 @@ jobs:
 
 | Window | Commits | Pull Requests | Issues Opened |
 |:---|---:|---:|---:|
-| 🗓️ Last 30 days | 6 | 0 | 0 |
-| 🗓️ Last 90 days | 11 | 0 | 0 |
+| 🗓️ Last 30 days | 4 | 0 | 0 |
+| 🗓️ Last 90 days | 6 | 0 | 0 |
 
 > _Computed from GitHub Public Events API (covers up to ~300 recent events)_
 
