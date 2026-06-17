@@ -641,7 +641,7 @@ jobs:
 
 ## ⚡ GitHub Insights
 
-> Auto-refreshed daily · Last updated: 2026-06-16 UTC
+> Auto-refreshed daily · Last updated: 2026-06-17 UTC
 
 ---
 
@@ -650,10 +650,10 @@ jobs:
 | Repository | Stars | Forks | Last Push | Status |
 |:---|---:|---:|:---|:---|
 | [sadamkhan7679](https://github.com/sadamkhan7679/sadamkhan7679) | ⭐ 0 | 🍴 0 | today | 📈 Active |
-| [agent-ops](https://github.com/sadamkhan7679/agent-ops) | ⭐ 2 | 🍴 1 | 84d ago | 💤 Quiet |
-| [skills-marketplace](https://github.com/sadamkhan7679/skills-marketplace) | ⭐ 0 | 🍴 0 | 56d ago | 💤 Quiet |
-| [live-docs](https://github.com/sadamkhan7679/live-docs) | ⭐ 1 | 🍴 0 | 180d ago | 💤 Quiet |
-| [react-confirm](https://github.com/sadamkhan7679/react-confirm) | ⭐ 1 | 🍴 0 | 519d ago | 💤 Quiet |
+| [agent-ops](https://github.com/sadamkhan7679/agent-ops) | ⭐ 2 | 🍴 1 | 85d ago | 💤 Quiet |
+| [live-docs](https://github.com/sadamkhan7679/live-docs) | ⭐ 1 | 🍴 0 | 181d ago | 💤 Quiet |
+| [react-confirm](https://github.com/sadamkhan7679/react-confirm) | ⭐ 1 | 🍴 0 | 520d ago | 💤 Quiet |
+| [react-confirm-dialog](https://github.com/sadamkhan7679/react-confirm-dialog) | ⭐ 1 | 🍴 0 | 534d ago | 💤 Quiet |
 
 ---
 
@@ -672,7 +672,7 @@ jobs:
 
 | Metric | Value |
 |:---|:---|
-| Public Repositories | 55 |
+| Public Repositories | 54 |
 | Total Stars | ⭐ 6 |
 | Total Forks | 🍴 1 |
 | Avg Forks per Repo | 0.02 |
@@ -684,10 +684,10 @@ jobs:
 
 | Language | Repos | Share |
 |:---|---:|---:|
-| TypeScript | 31 | 62.0% |
-| JavaScript | 14 | 28.0% |
-| Python | 3 | 6.0% |
-| C# | 2 | 4.0% |
+| TypeScript | 30 | 61.2% |
+| JavaScript | 14 | 28.6% |
+| Python | 3 | 6.1% |
+| C# | 2 | 4.1% |
 
 ---
 
