@@ -37,7 +37,7 @@ const sadam: Developer = {
   name:        "Sadam Hussain",
   role:        "Senior Full Stack & AI Engineer",
   experience:  "8+ years in production",
-  location:    "Windsor, Ontario, Canada",
+  location:    "Toronto, Ontario, Canada",
 
   stack: {
     frontend:  ["React", "Next.js", "TypeScript", "React Native", "Expo"],
